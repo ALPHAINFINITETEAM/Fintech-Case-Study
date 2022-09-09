@@ -36,3 +36,43 @@ Irish brothers Patrick and John Collison launched Stripe around 2010 after dropp
 * Hello World!
 According to co-founder Patrick Collison, the same merchant account woes that American merchants face exist all over the world. So, naturally, that is where he is headed next, outside the United States. Stripe's first stop is Canada, a logical choice and the first international foray for many U.S. companies because of the geographic and cultural comfort level it offers. Canada also offers Stripe a population of would-be online merchants who suffer long waits, onerous requirements, and antiquated technology, says Stripe beta-tester Colin Percival, who runs Tarsnap, a Vancouver, BC-based UNIX backup service. "For a long time, accepting credit cards in Canada meant dealing with banks — not a problem if you have millions of dollars of revenue, but far from a friendly process for a small business just starting up," says Percival. "Stripe makes all the problems of credit card processing go away."
 Stripe is intent on taking its business – and hearing that sentiment – all over the world.
+
+## Landscape:
+
+* Stripe, Inc. is in the financial domain of Payments and Billing.
+
+* From brilliant ecommerce solutions that have transformed the industry to cryptocurrency digital wallets and cross-border providers, digital payment platforms are thriving in the fintech space. Indeed, new innovations over the past decade have not only transformed the industry but the entire payments culture itself, enabling online shopping and ecommerce to truly flourish, as well as providing new opportunities to small businesses and consumers.[fintechmagazine.com](https://fintechmagazine.com/digital-payments/top-10-fintech-payment-platforms-to-watch-in-2022) listed the top 10 to watch this year as they expand and scale into new markets.
+
+#10 Bolt
+With a valuation of US$8.4bn, Bolt is on a mission to democratise commerce. Its one-click checkout product aims to give businesses the same technology Amazon has been using since 1997. At the same time, the fintech incorporates the use of payments and fraud services that ensure transactions are real and payments can be accepted. As the world's first checkout experience platform, Bolt offers a lightning-fast, one-click checkout and connects millions of shoppers to retailers through a unified, cross-brand network.
+
+#9 Billd
+Billd is a Texas-headquartered construction finance company that partners with regional and national suppliers across the U.S. to offer project-based financing to contractors. Its short-term financing solutions facilitate immediate payment to suppliers while providing contractors the flexibility to pay for material purchases over time. Billd co-founders, Chris Doyle and Jesse Weissburg, recognised how a lack of access to working capital impacts contractors’ ability to operate and grow their business.
+
+#8 Affirm
+Launched in 2012, Affirm is a publicly-traded, US-based financial technology company headquartered in San Francisco. The company is a financial lender in the sector of installment loans for consumers and although the jury is out on its valuation ‒ predictions range between US$1-10bn ‒ it remains an impressive leader in the digital payments space. The fintech business enables users to take out microloans at the point of sale with participating vendors and aims to provide a quick, transparent, and more inclusive lending alternative to credit cards.
+
+#7 SpotOn
+SpotOn provides mobile payment technology and management systems for restaurants and small businesses. Launched in 2017 and now with a valuation of US$3.15bn, the fintech startup takes great pride in providing one of the only objective and unbiased merchant account review websites on the internet. SpotOn’s free app for iPhone and Androids devices allows users to check-in at events and earn “spots” that can be redeemed for prizes as an additional incentive.
+
+#6 Checkout.com
+With a valuation of US$40bn, Checkout.com is one of the world’s leading payment platforms. It holds a firm position as a merchant services provider for international e-commerce merchants. Checkout.com’s overall product offering is fairly priced compared to competitors, and its platform integrates electronic payments, analytics, and fraud monitoring into one frictionless solution. The London-headquartered company also processes payments for big clients including Pizza Hut, H&M, and Farfetch, as well as fintechs like Coinbase, Klarna, and Revolut.
+
+#5 AeroPay
+AeroPay is an alternative payments company that allows customers to pay participating businesses through a direct bank transfer. The fintech’s payments solutions are designed to provide businesses with lower costs, faster settlement times, and enhanced security. AeroPay uses its patented payments process to enable 'smart bank transfers' between businesses and their customers (C2B) or other businesses (B2B).
+
+#4 Braintree
+Braintree is a full-stack payments platform that makes it easy to accept payments via your app or the website. Its service replaces the traditional model of sourcing a payment gateway and merchant account from different providers. 
+
+Braintree is often compared to PayPal, but it differs in that it is aimed at higher-volume eCommerce businesses that need a lot of custom control over their payment processes. In contrast, PayPal is designed to be simple and easy to use for merchants with modest eCommerce needs.
+
+#3 Clover
+Clover is a cloud-based Android point-of-sale (PoS) platform that was launched in April 2012. The burgeoning fintech offers small business owners the chance to set themselves up as vendors, simply through downloading their app and opening an account on the Clover platform via their mobile phone. Headquartered in Sunnyvale, California, the company was founded by Kelvin Zheng, Leonard Speiser, Mark Schulze and John Beatty, the latter of whom is also the fintech’s reigning CEO. Clover is owned by Fiserv, a leading financial technology company, and has a predicted valuation of US$188bn by 2025 if it continues on its current growth trajectory.
+
+#2 PayPal
+One of the more established fintechs ‒ and perhaps most globally recognised ‒ PayPal was originally founded by Peter Thiel, Luke Nosek and Max Levchin in December 1998 as Confinity, a company that developed security software for handheld devices. However, with that particular business model, the concept failed to take off, so the founders switched the company’s focus to digital wallets.
+
+In March 2000, still struggling to establish itself, Confinity merged with another early internet payment platform: X.com, headed up by Elon Musk. Musk became the CEO of the resulting company ‒ PayPal ‒ and, after much management wrangling due to leadership conflicts, Thiel briefly quit the company before returning as PayPal’s chairman. Musk continued as the company’s CEO until October 2002, when it was sold to eBay for US$1.5bn in stock. Today, it is worth more than US$130bn.
+
+#1 Stripe
+Stripe currently has a valuation of US$95bn and is a globally recognised company that looks set to make its IPO this year ‒ though this news is yet to be officially confirmed.
