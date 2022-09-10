@@ -76,3 +76,12 @@ In March 2000, still struggling to establish itself, Confinity merged with anoth
 
 #1 Stripe
 Stripe currently has a valuation of US$95bn and is a globally recognised company that looks set to make its IPO this year ‒ though this news is yet to be officially confirmed.
+
+## Results :
+
+* The company has two major trends in its favor: Investors view Stripe as an index of sorts for all of Silicon Valley, because it processes payments for plenty of fellow startups and tech companies—and Silicon Valley has thrived almost since the pandemic began. What’s more, people have embraced online shopping and are expected to keep at it even when Covid-19 fades. The pandemic accelerated the shift to e-commerce by two years, with online retail sales in the U.S. increasing in 2020 by nearly one-third to $795 billion, according to research firm eMarketer.
+
+*Stripe’s revenue last year rose nearly 70%, to about $7.4 billion, according to people with knowledge of the company’s finances. Other startups might have flashier apps or more recognized brands, but Stripe showed that it is better to be a workhorse than a show pony.
+
+* Now sitting atop a $95 billion valuation—the highest for a private Silicon Valley company, according to data firm PitchBook—Stripe is bulking up overseas, preparing to go public and working to build a one-stop financial supermarket for the internet economy.
+
