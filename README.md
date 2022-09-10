@@ -85,3 +85,16 @@ Stripe currently has a valuation of US$95bn and is a globally recognised company
 
 * Now sitting atop a $95 billion valuation—the highest for a private Silicon Valley company, according to data firm PitchBook—Stripe is bulking up overseas, preparing to go public and working to build a one-stop financial supermarket for the internet economy.
 
+## Recommendations
+
+* From Launch to growth, then peak, Stripe has experienced a great success so far and deserve its number 1 ranking in the payment and billing domain. Business science, however, predicts companies often struggle to remain successful after reaching their peak. With growing competition, Stripe would need to be creative by adding new products to remain at the top of their domain. I believe Commercial Banking and accepting deposits would be the perfect start. 
+
+* Stripe, Inc.  has provided solutions for millions of their customers around the world by revolutionizing payment processing. Strip, Inc. is perfectly positioned to dive into the commercial banking industry with the millions of customers already in their database. By offering free deposit accounts and low interest lines of credits, it would be a no brainer for their customers to transfer over. Stripe , Inc. would automatically be in charge of billions of deposits to convert and offer many other new products such as lines of credits , credit cards, real estate loans, etc …. 
+
+* Conventional banking with brick-and-mortar would be very limited for emergency purchases in need of Cash Withdrawals and other matters where physical interactions are necessary. Majority of businesses would be handled online. 
+
+* Consumer digital accounting opening is the most popular technology for the fourth year in a row—with banks (finally) leading the way here.
+According to [Forbes.com](https://www.forbes.com/sites/ronshevlin/2021/01/18/the-5-hottest-technologies-in-banking-for-2021/?sh=57efb41135c4), Commercial digital account opening systems (for corporations and small businesses) will get a boost this year as well, as 30% of banks anticipate choosing a new system this year, up from 22% in 2020.
+This shouldn’t come as a surprise. According to Cornerstone Advisors partner Quintin Sykes, “the commercial account opening and onboarding experience is one of the biggest pain points remaining in the digital experience.”Commercial digital account opening systems are gaining in popularity among credit unions, as well. One in 10 credit unions plan to implement a new commercial account opening system in 2021—twice the number that has done so in the past three years.
+
+Digital Commercial Banking accounts added to Stripe, Inc. new business products would certainly be a new game Changer! 
